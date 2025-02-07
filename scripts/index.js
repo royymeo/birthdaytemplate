@@ -4,7 +4,7 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'Feb 9, 2020',
+  birthdate: 'Feb 9, 2025',
   name: 'AFIF AZIZI'
 };
 
